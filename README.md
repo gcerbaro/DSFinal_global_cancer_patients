@@ -92,6 +92,33 @@ Associação entre idade média dos pacientes e estágio da doença.
   - ![Image](https://github.com/user-attachments/assets/acd54ea4-c489-465c-a628-5d5fd5aa237e)
 8. Distribuição da Idade dos Pacientes
 Histograma mostrando a faixa etária predominante entre os pacientes.
+  - ![Image](https://github.com/user-attachments/assets/4add57c9-4823-4788-8a0d-0c657dafeeec)
+9. Distribuição do Custo de Tratamento
+Análise da frequência dos diferentes custos de tratamento.
+  - ![Image](https://github.com/user-attachments/assets/c3428535-857b-48f2-a09e-e881cdbd63a1)
+10. Sobrevivência x Custo do Tratamento
+Gráfico de dispersão que analisa a relação entre custo e tempo de vida.
+  - ![Image](https://github.com/user-attachments/assets/8a452c8c-8eb3-4515-b53c-16c267297407)
+11. Distribuição por Gênero
+Gráfico de pizza com a proporção de pacientes por gênero.
+  - ![Image](https://github.com/user-attachments/assets/461b478d-2721-4b07-b847-4d627170c38a)
+12. Correlação com Target_Severity_Score
+Barplot com as variáveis mais correlacionadas com a gravidade dos casos.
+  -
+13. Média de Sobrevivência por Gênero (One Hot Encoding)
+Exibe os resultados médios de sobrevivência a partir das variáveis codificadas.
+  - 
+14. Dispersão: Fatores de Risco x Target_Severity_Score
+Regplots comparando fatores de risco como tabagismo, álcool, risco genético, etc. com a gravidade.
+  - 
+15. Pairplot de Variáveis Correlacionadas com a Severidade
+Visualização multivariada para explorar correlações simultâneas.
+  -  
+16. Boxplot: Severidade por Faixas de Tabagismo e Risco Genético
+Comparação da gravidade dos casos com faixas de tabagismo e risco genético.
+  - 
+17. Heatmap: Severidade Média por Tipo de Câncer e Gênero
+Mostra como a gravidade varia entre homens e mulheres por tipo de câncer.
   - 
 ---
 
