@@ -69,14 +69,30 @@ Este projeto focou na análise exploratória e visualização de dados, sem uso 
 
 ## 5. Resultados Obtidos
 
-- Identificação dos **Top 10 tipos de câncer** com maior número de pacientes e suas respectivas médias de sobrevivência e custos de tratamento.
-- Visualização clara da distribuição da idade dos pacientes e do custo médio de tratamento.
-- Análise do impacto do **risco genético** e do **uso de álcool** em diferentes tipos de câncer.
-- Observação da diferença na média de sobrevivência entre gêneros.
-- Mapas de correlação que revelam relações entre variáveis numéricas e as categorias codificadas com *one-hot encoding*.
-- Gráficos com valores numéricos indicados para melhor entendimento dos dados.
-- Apresentação visual do perfil dos pacientes por país, estágio do câncer e sexo.
-
+1. Top 10 Tipos de Câncer por Média de Sobrevivência
+Gráfico de barras mostrando os tipos de câncer com maior tempo médio de sobrevivência.
+  - ![Image](https://github.com/user-attachments/assets/3f3a1166-dc6f-4a7a-b23d-b198a1cf4f40)
+2. Top 10 Tipos de Câncer por Custo Médio de Tratamento
+Análise do custo médio dos tratamentos por tipo de câncer.
+  - ![Image](https://github.com/user-attachments/assets/06cd2b10-b256-4ac8-b1d6-0d97ab58c8d4)
+3. Top 10 Tipos de Câncer por Risco Genético Médio
+Mostra quais tipos de câncer possuem maior risco genético associado.
+  - ![Image](https://github.com/user-attachments/assets/032ab4d7-74f7-4edf-b942-90a3a2ffe915)
+4. Top 10 Tipos de Câncer por Uso Médio de Álcool
+Exibe os tipos de câncer mais associados ao consumo de álcool.
+  - ![Image](https://github.com/user-attachments/assets/1c87d634-f803-4960-81da-8ab61509548f)
+5. Média de Sobrevivência por Gênero
+Compara o tempo médio de vida após diagnóstico entre gêneros.
+  - ![Image](https://github.com/user-attachments/assets/b9c0cb76-e2c3-4552-a17a-33aced82ccd8)
+6. Top 10 Países por Custo Médio de Tratamento
+Ranking dos países com tratamentos mais caros, em média.
+  - ![Image](https://github.com/user-attachments/assets/de7cbb00-fc06-497b-8ebd-f3dada6c0b57)
+7. Média da Idade por Estágio do Câncer
+Associação entre idade média dos pacientes e estágio da doença.
+  - ![Image](https://github.com/user-attachments/assets/acd54ea4-c489-465c-a628-5d5fd5aa237e)
+8. Distribuição da Idade dos Pacientes
+Histograma mostrando a faixa etária predominante entre os pacientes.
+  - 
 ---
 
 ## 6. Próximos Passos
