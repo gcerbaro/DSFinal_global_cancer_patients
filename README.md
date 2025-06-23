@@ -104,22 +104,28 @@ Gráfico de pizza com a proporção de pacientes por gênero.
   - ![Image](https://github.com/user-attachments/assets/461b478d-2721-4b07-b847-4d627170c38a)
 12. Correlação com Target_Severity_Score
 Barplot com as variáveis mais correlacionadas com a gravidade dos casos.
-  -
+  - ![Image](https://github.com/user-attachments/assets/41b2a20e-9cde-4a38-8e54-2e00f1f0605f)
+
 13. Média de Sobrevivência por Gênero (One Hot Encoding)
 Exibe os resultados médios de sobrevivência a partir das variáveis codificadas.
-  - 
+  - ![Image](https://github.com/user-attachments/assets/1fb24cb9-8522-4dc0-ad39-41403ef09aa2)
+
 14. Dispersão: Fatores de Risco x Target_Severity_Score
 Regplots comparando fatores de risco como tabagismo, álcool, risco genético, etc. com a gravidade.
-  - 
+  - ![Image](https://github.com/user-attachments/assets/1fd8e228-1e95-4681-be96-ee43aff7565a)
+
 15. Pairplot de Variáveis Correlacionadas com a Severidade
 Visualização multivariada para explorar correlações simultâneas.
-  -  
+  -  ![Image](https://github.com/user-attachments/assets/0b58429f-a379-472f-ae71-a8308e4edd70)
+
 16. Boxplot: Severidade por Faixas de Tabagismo e Risco Genético
 Comparação da gravidade dos casos com faixas de tabagismo e risco genético.
-  - 
+  - ![Image](https://github.com/user-attachments/assets/d5d4f99e-9900-477b-a712-60b374555d58)
+
 17. Heatmap: Severidade Média por Tipo de Câncer e Gênero
 Mostra como a gravidade varia entre homens e mulheres por tipo de câncer.
-  - 
+  - ![Image](https://github.com/user-attachments/assets/dc1db23b-d990-458f-8894-e9e15ef24474)
+
 ---
 
 ## 6. Próximos Passos
