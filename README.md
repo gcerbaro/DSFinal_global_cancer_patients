@@ -11,14 +11,14 @@ O projeto inclui:
 - Discussão dos resultados e conclusões.
 
 # Url no github
-- [text](https://github.com/gcerbaro/DSFinal_global_cancer_patients)
+- [github.com/gcerbaro/DSFinal_global_cancer_patients](https://github.com/gcerbaro/DSFinal_global_cancer_patients)
 
 ---
 
 ## 
 
 - **Origem:**  
-[text](https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024/data)
+[Link do Dataset](https://www.kaggle.com/datasets/zahidmughal2343/global-cancer-patients-2015-2024/data)
 
 O dataset utilizado contém 50.000 registros de pacientes com câncer, com 14 colunas de dados que cobrem desde informações de ambiente (poluição do ar), de estilo de vida (tabagismo, consumo de álcool), estágio da doença, custo de tratamento e demais dados demográficos. O dataset conta com registros recolhidos de pacientes ao redor do mundo entre 2015 e 2024.
 
@@ -155,8 +155,8 @@ conforme à linha central, o que indica pouca discrepância entre os valores rea
 ---
 
 ## Grupo
-- Giovanni A. Cerbaro ([text](https://github.com/gcerbaro))
-- Felipe F. Picasso ([text](https://github.com/FelipeFPicasso))
-- Nicolas C. Todero ([text](https://github.com/NicolasComin))
+- Giovanni A. Cerbaro (https://github.com/gcerbaro)
+- Felipe F. Picasso (https://github.com/FelipeFPicasso))
+- Nicolas C. Todero (https://github.com/NicolasComin)
 
 ---
