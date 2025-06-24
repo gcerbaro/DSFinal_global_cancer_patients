@@ -55,8 +55,6 @@ O dataset utilizado contém 50.000 registros de pacientes, com informações com
   - Agrupamentos e cálculo de médias para gerar insights resumidos.
 
 ---
-
----
 ## 4. Limpeza e normalização
 Para realizar a limpeza e normalização do dataset foram utilizadas algumas técnicas para garantir melhor qualidade em analise posterior, dentre estas estao:
 
@@ -67,7 +65,7 @@ Para realizar a limpeza e normalização do dataset foram utilizadas algumas té
 
 ---
 
-## 4. Modelos Utilizados / Desenvolvidos
+## 5. Modelos Utilizados / Desenvolvidos
 
 Este projeto focou na análise exploratória e visualização de dados, sem uso de modelos preditivos. As principais técnicas e ferramentas utilizadas foram:
 
@@ -78,7 +76,7 @@ Este projeto focou na análise exploratória e visualização de dados, sem uso 
 
 ---
 
-## 5. Resultados Obtidos
+## 6. Resultados Obtidos
 
 1. Top 10 Tipos de Câncer por Média de Sobrevivência
 Gráfico de barras mostrando os tipos de câncer com maior tempo médio de sobrevivência.
@@ -226,7 +224,7 @@ Visualização espacial da concentração de pacientes por região.
 
 ---
 
-## 6. Próximos Passos
+## 7. Próximos Passos
 
 - Implementação de modelos preditivos para estimar tempo de sobrevivência ou custo com base em variáveis clínicas e demográficas.
 - Exploração de técnicas avançadas de análise multivariada e machine learning.
