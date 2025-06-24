@@ -52,7 +52,7 @@ Para realizar a limpeza e normalização do dataset foram utilizadas algumas té
 
 ---
 
-## Resultados Obtidos
+## Análise Exploratória
 
 1. Tipos de Câncer por Média de Sobrevivência
 Gráfico de barras mostrando os tipos de câncer com maior tempo médio de sobrevivência.
@@ -64,71 +64,33 @@ Mostra quais tipos de câncer possuem maior risco genético associado.
 
   - ![Image](https://github.com/user-attachments/assets/d661ed92-960e-4d6f-b26e-2006832d69a6)
 
-3. Média de Sobrevivência por Gênero
-Compara o tempo médio de vida após diagnóstico entre gêneros.
-
-  - ![Image](https://github.com/user-attachments/assets/577014ca-9cb6-4edf-bdc4-c37564714611)
-
-4. Média da Idade por Estágio do Câncer
+3. Média da Idade por Estágio do Câncer
 Associação entre idade média dos pacientes e estágio da doença.
 
   - ![Image](https://github.com/user-attachments/assets/ed8d364c-00f8-4f02-b32b-86110ad9608f)
 
-
-5. Distribuição da Idade dos Pacientes
-Histograma mostrando a faixa etária predominante entre os pacientes.
-
-  - ![Image](https://github.com/user-attachments/assets/0ed8d763-86d5-4794-8054-b6e551a65651)
-
-
-6. Distribuição do Custo de Tratamento
-Análise da frequência dos diferentes custos de tratamento.
-
-  - ![Image](https://github.com/user-attachments/assets/e0a48e7f-2d4c-4c7e-a4db-d9b35829190b)
-
-
-7. Sobrevivência x Custo do Tratamento
+4. Sobrevivência x Custo do Tratamento
 Gráfico de dispersão que analisa a relação entre custo e tempo de vida.
 
   - ![Image](https://github.com/user-attachments/assets/4050b3c4-ea9b-4b47-9174-c9bc2586af40)
 
 
-8. Distribuição por Gênero
+5. Distribuição por Gênero
 Gráfico de pizza com a proporção de pacientes por gênero.
 
   - ![Image](https://github.com/user-attachments/assets/c60e2b24-5480-4acd-a10b-a39bc14298ae)
 
-
-9. Correlação com Target_Severity_Score
+6. Correlação com Target_Severity_Score
 Barplot com as variáveis mais correlacionadas com a gravidade dos casos.
 
   - ![Image](https://github.com/user-attachments/assets/a2b1acaf-0575-40b4-9a33-a2812b8ae0a5)
 
-
-10. Média de Sobrevivência por Gênero (One Hot Encoding)
-Exibe os resultados médios de sobrevivência a partir das variáveis codificadas.
-
-  - ![Image](https://github.com/user-attachments/assets/3f58c162-7c84-40f7-9dfe-1cc47a87ace3)
-
-
-11. Dispersão: Fatores de Risco x Target_Severity_Score
-Regplots comparando fatores de risco como tabagismo, álcool, risco genético, etc. com a gravidade.
-
-  - ![Image](https://github.com/user-attachments/assets/07562eb5-b2af-4ff2-91f8-a6e2e4b8c332)
-
-
-12. Variáveis Correlacionadas com a Severidade
+7. Variáveis Correlacionadas com a Severidade
 Visualização multivariada para explorar correlações simultâneas.
 
   - ![Image](https://github.com/user-attachments/assets/744ea238-4225-45a6-a606-bf37ffbe4c85)
 
-13. Severidade Média por Tipo de Câncer e Gênero
-Mostra como a gravidade varia entre homens e mulheres por tipo de câncer.
-
-  - ![Image](https://github.com/user-attachments/assets/2c6ac3a5-2232-4389-bf27-62f2d0d6568b)
-
-
-14. Sobrevivência por Estágios do Câncer
+8. Sobrevivência por Estágios do Câncer
 Mostra a tendência de sobrevivência para cada estágio da doença.
 
   - ![Image](https://github.com/user-attachments/assets/c995e3f2-e647-4d70-ad8c-6d9f4885ad0f)
