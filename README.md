@@ -25,7 +25,7 @@ O dataset utilizado contém 50.000 registros de pacientes, com informações com
 
 ## Como Executar
 
-1. git clone: https://github.com/gcerbaro/DSFinal_global_cancer_patients.git
+git clone: https://github.com/gcerbaro/DSFinal_global_cancer_patients.git
 
 
 ---
