@@ -56,6 +56,17 @@ O dataset utilizado contém 50.000 registros de pacientes, com informações com
 
 ---
 
+---
+## 4. Limpeza e normalização
+Para realizar a limpeza e normalização do dataset foram utilizadas algumas técnicas para garantir melhor qualidade em analise posterior, dentre estas estao:
+
+- **Remoção**: remoção de dados nulos, duplicados e irrelevantes para treinamento do modelo.
+- **Tratamento**: tratamento de variaveis categoricas, com One Hot Encoding, e ordianais, convertidos para escala numerica.
+- **Filtro**: filtragem de outliers via usando IQR para distringuir quais valores eram distorcidos da maioria.
+- **Normalização**: normalização dos dados para facilitar o treinamento do modelo utilizando Min-Max Scaling, que converte todos os valores numericos para um intervalo entre 0 e 1.
+
+---
+
 ## 4. Modelos Utilizados / Desenvolvidos
 
 Este projeto focou na análise exploratória e visualização de dados, sem uso de modelos preditivos. As principais técnicas e ferramentas utilizadas foram:
